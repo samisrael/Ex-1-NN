@@ -109,9 +109,18 @@ print(f"Training data shape: {X_train.shape}, {y_train.shape}")
 print(f"Testing data shape: {X_test.shape}, {y_test.shape}")
 ```
 ## OUTPUT:
-SHOW YOUR OUTPUT HERE
-
-
+### Dataset
+![image](./images/dataset.png)
+### Missing Values
+![image](./images/missing.png)
+### Duplicate Values
+![image](./images/duplicate.png)
+### Outliers
+![image](./images/outlier.png)
+### Normalization
+![image](./images/normalize.png)
+### Train & Test data
+![image](./images/traintestdata.png)
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
 
