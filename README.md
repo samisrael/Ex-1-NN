@@ -1,7 +1,7 @@
-<H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+<H3>ENTER YOUR NAME : Sam Israel D</H3>
+<H3>ENTER YOUR REGISTER NO. : 212222230128</H3>
 <H3>EX. NO.1</H3>
-<H3>DATE</H3>
+<H3>DATE : 25/08/2024</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
