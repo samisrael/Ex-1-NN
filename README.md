@@ -120,7 +120,8 @@ print(f"Testing data shape: {X_test.shape}, {y_test.shape}")
 ### Normalization
 ![image](./images/normalize.png)
 ### Train & Test data
-![image](./images/traintestdata.png)
+<img src = "images/traintestdata.png" width="350" height="550"><img>
+
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
 
